@@ -2,6 +2,7 @@
  * @NApiVersion 2.x
  * @NScriptType ClientScript
  */
+//new change
 define(['N/search'], function(search) {
 
     function saveRecord(context) {
